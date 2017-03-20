@@ -9,10 +9,10 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 var pool = mysql.createPool({
-    host  : 'localhost',
-    user  : 'root',
-    password: 'Thundercleez23',
-    database: 'nextextension'
+    host  : 'xxxx',
+    user  : 'xxxx',
+    password: 'xxxx',
+    database: 'xxxx'
 });
 
 
